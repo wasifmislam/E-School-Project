@@ -1,0 +1,140 @@
+
+.img-fluid{
+    
+width: 198px;
+height: 60px;
+}
+.first-section{
+    
+width: 1360px;
+height: 476px;
+left: 0px;
+top: 0px;
+
+background: #F0FFF0;
+}
+.second-section{
+
+width: 1360px;
+height: 270px;
+left: 0px;
+top: 0px;
+
+
+}
+.navbar-nav {
+    font-weight: 400;
+}
+.sign-button{
+    border-radius: 30px;
+    padding: 5px 15px;
+    background: #21B573;
+
+}
+.get-button{
+    
+background: #21B573;
+border-radius: 33px;
+}
+.header-p{
+  font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+color: #FD511A;
+width: 188px;
+height: 24px;
+left: 20px;
+top: 17px;
+
+}
+.first-heading{
+  font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 70px;
+color: #000000;
+
+width: 405px;
+height: 140px;
+left: 20px;
+top: 21px;
+}
+.header-image{
+    width: 420px;
+    height: 321px;
+    left: 225px;
+    
+position: absolute;
+     }
+.book-style{
+    
+width: 66px;
+height: 85px;
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+background-color:  #F8FFFB; ;
+
+}
+.student-style{
+    
+width: 66px;
+height: 85px;
+
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+background-color:   #F8FFFB;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+.test-style{
+    
+width: 66px;
+height: 85px;
+display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+background: #F8FFFB;
+
+}
+.card{
+    background-color: #F8FFFB;
+}
+h2{
+    
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 54px;
+
+
+
+color: #413960;
+}
+
+.final-section{
+width: 1350px;
+height: 100px;
+left: 0px;
+top: 0px;
+
+}
+footer {
+    background-color: #282531;
+    padding: 5%;
+}
+footer ul li{
+    color: white;
+    list-style: none;
+    letter-spacing: 2px;
+}
+
+
